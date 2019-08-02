@@ -14,7 +14,7 @@ class Homepage extends React.Component {
 
         return (
             <Layout>
-                <Helmet title={siteTitle} />
+                <Helmet title="Gatsby Html5up - Open-Source app with Photon design" />
 
                 <section id="one" className="main style1">
                     <div className="grid-wrapper">

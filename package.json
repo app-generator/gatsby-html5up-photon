@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-photon",
+  "name": "gatsby-html5up-photon",
   "description": "Gatsby photon starter",
   "version": "1.0.0",
   "author": "Hunter Chang",
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-photon"
+    "url": "https://github.com/app-generator/gatsby-html5up-photon"
   }
 }

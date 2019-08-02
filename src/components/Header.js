@@ -6,10 +6,12 @@ class Header extends React.Component {
             <section id="header">
                 <div className="inner">
                     <span className="icon major fa-cloud"></span>
-                    <h1>Hi, I'm <strong>Photon</strong>, another fine<br />
-                    little freebie from <a href="http://html5up.net">HTML5 UP</a>.</h1>
-                    <p>Accumsan feugiat mi commodo erat lorem ipsum, sed magna<br />
-                    lobortis feugiat sapien sed etiam volutpat accumsan.</p>
+                    <h1>
+                        GatsbyJS Html5Up
+                    </h1>
+                    <p>
+                        <a href="https://github.com/app-generator/gatsby-html5up-photon">Open-Source</a> app with Photon design
+                    </p>
                     <ul className="actions">
                         <li><a href="#one" className="button scrolly">Discover</a></li>
                     </ul>
