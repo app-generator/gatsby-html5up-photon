@@ -5,6 +5,10 @@ Open-source app built with GatsbyJS on top of HTML5Up Photon design.
 
 <br />
 
+![GatsbyJS Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-photon-intro.gif?raw=true)
+
+<br />
+
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/gatsby-html5up-photon.git`
 - change directory to `gatsby-html5up-photon`
