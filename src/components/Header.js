@@ -7,7 +7,7 @@ class Header extends React.Component {
                 <div className="inner">
                     <span className="icon major fa-cloud"></span>
                     <h1>
-                        GatsbyJS Html5Up
+                        <a href="https://www.gatsbyjs.org/">Gatsby</a> Html5Up
                     </h1>
                     <p>
                         <a href="https://github.com/app-generator/gatsby-html5up-photon">Open-Source</a> app with Photon design
