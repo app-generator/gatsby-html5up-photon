@@ -1,7 +1,18 @@
-# [GatsbyJS Photon](https://gatsby-html5up-photon.appseed.us)
+# [GatsbyJS Photon](https://appseed.us/apps/gatsbyjs/gatsby-html5up-photon)
 
 Open-source app built with GatsbyJS on top of HTML5Up Photon design. 
 **Forked from [this](https://github.com/codebushi/gatsby-starter-photon) project.**
+
+<br />
+
+![GatsbyJS Photon - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-photon-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Photon](https://gatsby-html5up-photon.appseed.us) - live demo
+- [Photon](https://html5up.net/photon) - the design provided by Html5UP 
 
 <br />
 
@@ -16,7 +27,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Photon design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed** 
 
 <br />
 
@@ -28,4 +39,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Photon](https://gatsby-html5up-photon.appseed.us) provided by **AppSeed**
+[GatsbyJS Photon](https://appseed.us/apps/gatsbyjs/gatsby-html5up-photon) provided by **AppSeed**
