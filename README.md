@@ -2,7 +2,7 @@
 
 Open-source app built with GatsbyJS on top of HTML5Up Photon design.
 
-> Originally coded by **[Code Bushi](https://github.com/codebushi)**.
+> Originally coded by **[Codebushi](https://github.com/codebushi)**.
 
 <br />
 
