@@ -1,7 +1,8 @@
 # [GatsbyJS Photon](https://appseed.us/apps/gatsbyjs/gatsby-html5up-photon)
 
 Open-source app built with GatsbyJS on top of HTML5Up Photon design.
-**Forked from [this](https://github.com/codebushi/gatsby-starter-photon) project.**
+
+> Originally coded by **[Code Bushi](https://github.com/codebushi)**.
 
 <br />
 
